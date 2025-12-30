@@ -42,7 +42,7 @@ ubuntu-dual-ssd-install/
 │   ├── 01-overview.md
 │   ├── 02-create-live-usb.md
 │   ├── 03-ubuntu-install.md       # (includes physical SSD prep section)
-│   └──  04-post-install-config.md
+│   └── 04-post-install-config.md
 │── images/
 │   ├── overview/
 │   ├── create-live-usb/
@@ -67,7 +67,6 @@ Includes Secure Boot considerations, file system type, and USB boot readiness te
 
 ### 03 — Ubuntu Install Walkthrough  
 Physical SSD preparation (disconnect Windows drive), BIOS boot entry selection, installer flow, partitioning, desktop setup.  
-Contains screenshots/photo placeholders for visual clarity.  
 [documents/03-ubuntu-install.md](documents/03-ubuntu-install.md)
 
 ### 04 — Post-Install Configuration  
@@ -89,7 +88,7 @@ Dual-SSD eliminates almost all common dual boot conflicts:
 - File system compatibility issues  
 - Slower drives due to mixed OS partitions  
 
-**Two SSDs mean two boot ecosystems. Clean, safe, and future-proof.**
+**Each SSD maintains its own boot environment, keeping both operating systems isolated and stable.**
 
 ---
 
