@@ -8,7 +8,7 @@ This repository demonstrates a safe, beginner-friendly, and best-practice approa
 
 By isolating both systems physically, we preserve clean bootloaders, avoid destructive errors, and ensure long-term maintainability.  
 If you need help cloning a drive before beginning, refer to the complementary repository:  
-[Clonezilla SSD Clone Guide](https://github.com/YOUR-USERNAME/clonezilla-ssd-clone-guide)
+[Clonezilla SSD Clone Guide](https://github.com/luisgrm/clonezilla-ssd-clone-guide)
 
 ---
 
