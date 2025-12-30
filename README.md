@@ -34,7 +34,7 @@ Out of Scope:
 
 ## Repository Structure
 
-===text
+```plaintext
 ubuntu-dual-ssd-install/
 |
 │── README.md
@@ -49,7 +49,7 @@ ubuntu-dual-ssd-install/
 │   ├── ubuntu-install/
 │   └── post-install-config/
 └── LICENSE
-===
+```
 
 ---
 
